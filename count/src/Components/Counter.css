@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(164, 164, 203);
+}
+
+
+.container{
+     background-color: rgb(243, 77, 77);
+     border:2px solid black;
+     color:white
+     
+}
+
+button {
+    background-color: blue;
+    margin-left: 15px;
+    color:white
+}
