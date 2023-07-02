@@ -1,0 +1,65 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "john",
+      "lastname": "dev",
+      "email": "john@example.com",
+      "username": "john@123",
+      "password": "dev123",
+      "confirmPassword": "dev123",
+      "Address": "delhi"
+    },
+    {
+      "first": "fgfdg",
+      "lname": "fgf",
+      "Email": "fd",
+      "Uname": "df",
+      "Pass": "fdggfg@122",
+      "CPass": "fdggfg@122",
+      "Address": "",
+      "mobileNumber": "54657879",
+      "id": 2
+    },
+    {
+      "first": "gnhg",
+      "lname": "ggyr",
+      "Email": "fgd",
+      "Uname": "defd",
+      "Pass": "gvgdg@123",
+      "CPass": "gvgdg@123",
+      "Address": "",
+      "mobileNumber": "566880921",
+      "id": 3
+    },
+    {
+      "first": "fgdf",
+      "lname": "fghghj",
+      "Email": "hjhg",
+      "Uname": "jgh",
+      "Pass": "hgjh@123",
+      "CPass": "hgjh@123",
+      "Address": "rftjyhj",
+      "mobileNumber": "65476879",
+      "id": 4
+    },
+    {
+      "first": "Prince",
+      "lname": "Singh",
+      "Email": "Prince@12",
+      "Uname": "Mrprince",
+      "Pass": "Princeranu98@gmail.com",
+      "CPass": "Princeranu98@gmail.com",
+      "Address": "kkkk",
+      "mobileNumber": "8073898728",
+      "id": 5
+    }
+  ]
+}
